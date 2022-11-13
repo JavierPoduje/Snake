@@ -13,9 +13,9 @@ cargo run
 Commands:
 
 |Key|Description|
-|---|---|---|
+|---|---|
 |<div align="center"><kbd>Esc</kbd></div>|Stop the game and exit the window|
-|<div align="center"><kbd>up | k</kbd></div>|Move up|
-|<div align="center"><kbd>right | l</kbd></div>|Move right|
-|<div align="center"><kbd>down | j</kbd></div>|Move down|
-|<div align="center"><kbd>left | h</kbd></div>|Move left|
+|<div align="center"><kbd>up - k</kbd></div>|Move up|
+|<div align="center"><kbd>right - l</kbd></div>|Move right|
+|<div align="center"><kbd>down - j</kbd></div>|Move down|
+|<div align="center"><kbd>left - h</kbd></div>|Move left|
